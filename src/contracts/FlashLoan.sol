@@ -29,8 +29,6 @@ contract FlashLoan is FlashLoanReceiverBase {
         uint _fee,
         bytes memory _params
     ) external {
-        //write your arbitrage code here
-        //transferFundsBackToPoolInternal(_reserve, _amount + _fee);
-
+        // todo
     }
 }
